@@ -3,8 +3,8 @@
 This repository contains the open-sourced Appsmith applications built for the StartupPilot project.
 
 ## Contents
-- Founder / MIS dashboard
-- Investor dashboard
+- Founder / MIS dashboard (StartupPilot Startup)
+- Investor dashboard (StartupPilot Investor)
 
 These applications were built using Appsmith and are shared for learning and reuse.
 
